@@ -2,7 +2,7 @@ if !has('conceal')
     finish
 endif
 
-syntax keyword schemeSyntax lambda conceal cchar=λ
+syntax keyword racketSyntax lambda conceal cchar=λ
 
 hi! link Conceal Operator
 
