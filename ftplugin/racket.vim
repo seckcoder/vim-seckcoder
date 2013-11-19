@@ -1,1 +1,1 @@
-setl lispwords+=match
+setl lispwords+=match,cases
